@@ -1,1 +1,1 @@
-Risk level : Low
+Risk level : Medium
